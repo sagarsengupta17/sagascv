@@ -8,7 +8,7 @@ LinkedIn Profile – https://cutt.ly/8QNuxQy
 
 **PROFESSIONAL SUMMARY:**
 
-o Having 6+ years of experience with expertise in **SAP WM , SAP SD, SAP MDG and majorly SAP**** ABAP**.
+o Having 6+ years of experience with expertise in **SAP WM , SAP SD, SAP MDG and majorly SAP ABAP**.
 
 o Extensively worked on **Object Oriented Programming in ABAP**.
 
