@@ -25,7 +25,7 @@ Having a good expertise in SAP, as a technical and learning functional consultan
 **PROFESSIONAL EXPERIENCE:**
 
 
-            **TRELLEBORG SEALING SOLUTIONS -**
+              TRELLEBORG SEALING SOLUTIONS
 
 Trelleborg AB is a global engineering group focused on polymer technology, with headquarters in Trelleborg, Sweden and Stuttgart Germany.
 
@@ -39,7 +39,7 @@ Trelleborg AB is a global engineering group focused on polymer technology, with 
 
 **Key Responsibilities**** -** As technical consultant I am responsible for SAP S4 HANA related development and role-based responsibilities as per requirement depending on the zone globally.
 
-            **NEOVIA LOGISTICS GDCI-**
+              NEOVIA LOGISTICS GDCI
 
 Neovia is a global leader in third-party logistics, operating more than 100 facilities in 20 plus countries across six continents.
 
@@ -53,7 +53,7 @@ Neovia is a global leader in third-party logistics, operating more than 100 faci
 
 **Key Responsibilities**** -** As techno-functional consultant I am responsible for SAP WM issue, SAP ABAP, SAP Workflow and relevant development and AMS based roles as per requirement depending on the zone globally.
 
-          **NTT DATA GLOBAL DELIVERY SERVICES LTD-**
+            NTT DATA GLOBAL DELIVERY SERVICES LTD
 
 NTT DATA is a Global IT Innovator delivering technology-enabled services and solutions to clients around the world.
 
@@ -71,7 +71,7 @@ NTT DATA is a Global IT Innovator delivering technology-enabled services and sol
 
 **Key Responsibilities**** -** As technical consultant was responsible for SAP ABAP, SAP Workflow and relevant development and AMS based roles as per customer requirement depending on the zone globally.
 
-            **WIPRO TECHNOLOGIES-**
+              WIPRO TECHNOLOGIES
 
 Wipro Technologies is a leading Information Technology, Consulting and Business Process Services company that delivers cross platform solutions to enable its clients do business better.
 
