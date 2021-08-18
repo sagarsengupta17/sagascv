@@ -1,6 +1,9 @@
 **SAGAR SENGUPTA**
+
 MAIL: sagarsengupta17@rediffmail.com
+
 CONTACT: +91 8335029259
+
 LinkedIn Profile – https://cutt.ly/8QNuxQy
 
 **PROFESSIONAL SUMMARY:**
