@@ -8,7 +8,7 @@ LinkedIn Profile – https://cutt.ly/8QNuxQy
 
 **PROFESSIONAL SUMMARY:**
 
-o Having 6+ years of experience with expertise in **SAP WM , SAP SD, SAP MDG and majorly SAP ABAP**.
+o Having 8+ years of experience with expertise in **SAP S4HANA, SAP Cloud S4, SAP SD, SAP MDG and majorly SAP ABAP**.
 
 o Extensively worked on **Object Oriented Programming in ABAP**.
 
@@ -24,6 +24,20 @@ Having a good expertise in SAP, as a technical and learning functional consultan
 
 **PROFESSIONAL EXPERIENCE:**
 
+
+              SHELL INDIA
+
+Shell plc is a British multinational oil and gas company headquartered in London, England
+
+**SAP S4 HANA Development Global Rollout**
+
+**Duration** April 2022-Till date
+
+**Location** Bengaluru
+
+**Role** Senior Technical Consultant (ABAP/ MDG/Workflow)
+
+**Key Responsibilities**** -** As technical consultant I am responsible for SAP S4 HANA related development and role-based responsibilities as per requirement depending on the zone globally.
 
               TRELLEBORG SEALING SOLUTIONS
 
